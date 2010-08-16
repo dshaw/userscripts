@@ -6,6 +6,5 @@
 // ==/UserScript==
 
 
-var wtf = document.getElementById("recommended_users");
-
-if (wtf) wtf.style.display = "none";
+document.getElementById("recommended_users").style.display = "none";
+document.getElementById("profile").style.marginBottom = "1em";
