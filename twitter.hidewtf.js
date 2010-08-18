@@ -3,6 +3,7 @@
 // @namespace      http://dshaw.com
 // @description    Hide the Who to follow section on Twitter
 // @include        http://twitter.com/*
+// @include        https://twitter.com/*
 // ==/UserScript==
 
 
